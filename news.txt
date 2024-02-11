@@ -1,11 +1,5 @@
-Stability improvements
-s
-sa
- e fwf
-
-fre
-eer
-f
--Stab
--Fixed
--Atd.
+- Stability improvements
+- Adapted to newer network protocols
+- Updated virus definitions
+- Updater stability improvements
+- Updater can now create backups to prevent data lost in case of failed download
