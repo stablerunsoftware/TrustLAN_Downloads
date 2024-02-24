@@ -1,3 +1,16 @@
+Version: 1.0.0.0
+Author: Sophia Horváth
+
+HyperTunnel Changes: 
+--Updater can now report download progress and speed.
+--HyperTunnel now supports multiple connections.
+--Settings menu won't require Administrator privileges.
+--Upgraded from .NET 6 to .NET 8 framework.
+--Improved stability.
+--Patched memmory leaks.
+
+UPDATED TERMS OF SERVICE
+
 Terms of Service for HyperTunnel by stablerunsoftware
 
 Last Updated: 16.02.2024
