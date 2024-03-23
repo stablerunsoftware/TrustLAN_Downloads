@@ -1,1 +1,33 @@
-cau
+Privacy Policy for TrustLAN
+
+Effective Date: 15.03.2024
+
+Thank you for choosing TrustLAN, developed by stablerunsoftware. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, TrustLAN. Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the application.
+
+Information We Do Not Collect
+
+TrustLAN is committed to protecting your privacy, and we do not collect any personally identifiable information or user data through our application. We do not gather any information related to your identity, location, device, or browsing activity. Therefore, you can use TrustLAN with confidence, knowing that your privacy is fully respected.
+
+How We Use Your Information
+
+Since we do not collect any user data or personal information, we do not have any information to use or analyze. TrustLAN is designed to operate without the need for data collection, ensuring your privacy remains intact.
+
+Disclosure of Your Information
+
+As we do not collect any user information, we do not disclose any information to third parties. Your privacy is paramount, and we are committed to maintaining the confidentiality of any data that may be generated or processed within the TrustLAN application.
+
+Children's Privacy
+
+TrustLAN is suitable for use by individuals of all ages, including children. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take the necessary steps to remove such information from our servers.
+
+Changes to Our Privacy Policy
+
+stablerunsoftware reserves the right to update or change this Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy or TrustLAN, please contact us at https://stablerunsoftware.com/contacts
+
+By using TrustLAN, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use TrustLAN. Your continued use of TrustLAN following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
+
+Thank you for trusting TrustLAN with your privacy.
